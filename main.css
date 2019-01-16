@@ -1,0 +1,21 @@
+body {
+    color: rgb(237, 243, 248);
+    background: dimgray
+}
+
+h1 {
+    font-family: sans-serif;
+}
+
+h2{
+    color: #8e70a2;
+    font-family: cursive;
+    font-size: 30px;
+    border: 5px solid darkolivegreen;
+}
+
+.holder-type {
+    color: #a59c8b;
+    margin-top: 0px;
+    font-family: monospace;
+}
